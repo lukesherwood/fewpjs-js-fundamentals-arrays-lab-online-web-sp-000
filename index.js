@@ -1,2 +1,3 @@
 // Write your solution here!
-pets.push()
+const append = pets.push('Odie')
+const prepend = pets.
